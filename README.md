@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Choubey</h1>
 <h3 align="center">A FullStack Developer from India!</h3>
 
-![image](https://user-images.githubusercontent.com/51222058/221332068-76520438-2c18-4aa1-a8f1-542dc6b6f504.png)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkr96&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr96" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkr96" alt="ashishkr96" /></a> </p>
