@@ -32,8 +32,8 @@
 ### GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishkr96&show_icons=true&locale=en&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkr96&layout=compact&locale=en&hide_border=true" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishkr96&show_icons=true&locale=en&hide_border=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ashishkr96&layout=compact&locale=en&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
