@@ -37,5 +37,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkr96&row=1&column=7&margin-w=10&no-frame=true" alt="trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-omega.vercel.app/?username=ashishkr96&row=1&column=7&margin-w=10&no-frame=true" alt="trophies" /></a>
 </p>
